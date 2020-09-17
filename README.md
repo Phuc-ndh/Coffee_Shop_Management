@@ -3,7 +3,7 @@
 - Người sử dụng:
   - Chủ quán cà phê
   - Nhân viên thu ngân
-- Mục tiêu: Phần mềm giúp người sử dụng có thể quản lý được các hoạt động của quán.
+- Mục tiêu: Phần mềm giúp người sử dụng có thể quản lý được các hoạt động của quán hiệu quả.
 - Danh sách tính năng: Đang phát triển
 ## Tác giả
 - Vũ Đức Trung (leader)
